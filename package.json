@@ -1,0 +1,52 @@
+{
+  "name": "cv-builder-frontend-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@dnd-kit/core": "^6.1.0",
+    "@dnd-kit/sortable": "^8.0.0",
+    "@dnd-kit/utilities": "^3.2.2",
+    "@ramonak/react-progress-bar": "^5.2.0",
+    "@react-pdf/renderer": "3.1.2",
+    "@types/react-datepicker": "^7.0.0",
+    "antd": "^5.22.1",
+    "apexcharts": "^3.54.0",
+    "axios": "^1.7.2",
+    "country-state-city": "^3.2.1",
+    "date-fns": "^4.1.0",
+    "lucide-react": "^0.460.0",
+    "moment": "^2.30.1",
+    "next": "14.2.5",
+    "next-auth": "^4.24.7",
+    "react": "^18",
+    "react-apexcharts": "^1.4.1",
+    "react-datepicker": "^7.5.0",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^5.3.0",
+    "react-loader-spinner": "^6.1.6",
+    "react-phone-number-input": "^3.4.8",
+    "react-rating-stars-component": "^2.2.0",
+    "recharts": "^2.13.3",
+    "suneditor": "^2.47.0",
+    "suneditor-react": "^3.6.1",
+    "sweetalert2": "^11.13.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.19",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
+    "typescript": "^5"
+  }
+}
